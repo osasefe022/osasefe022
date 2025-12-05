@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I&#39;m Osaretin Efe Omokheyeke! ��
+### �� About Me
+- ��️ Cybersecurity Specialist
+- �� Exploring Cloud Security, AI in Cybersecurity,
+and API Security
+- �� Lifelong learner passionate about ...
+### �� My Work
+- �� [LinkedIn Profile](www.linkedin.com/in/osaretin-omokheyeke-ab5149396)
+- �� [Resume](#) (Upload your resume as a file to this repository or link to
+an external site)
+### ��️ Skills
+- **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
+Risk Assessments, Network Security, Endpoint security,
+- **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+### �� GitHub Stats
+![GitHub Stats](https://github-readme-
+stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
+### ✨ Fun Fact
+My journey blends data center operations, power systems monitoring, and vulnerability assessment—bridging physical and digital infrastructure security.
 
-<!--
-**osasefe022/osasefe022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
