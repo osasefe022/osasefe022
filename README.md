@@ -10,7 +10,7 @@
 Risk Assessments, Network Security, Endpoint security,
 - **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
 ### GitHub Stats
-![GitHub Stats](https://github-readme-
+(https://github-readme-
 stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
 ### Fun Fact
 My journey blends data center operations, power systems monitoring, and vulnerability assessment—bridging physical and digital infrastructure security.
